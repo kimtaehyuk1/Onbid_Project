@@ -30,7 +30,7 @@ class RecycleData : AppCompatActivity() {
     var btotal = false
     var endpage = 0
     lateinit var fdata : MutableList<Data>
-    
+
 
 
     inner class WorkerRunnable : Runnable{
